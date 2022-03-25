@@ -1,0 +1,6 @@
+@echo off
+title WFA Selfbot
+echo lancement du selfbot en cours...
+echo veuillez patienter...
+node index
+pause
